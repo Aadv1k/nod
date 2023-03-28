@@ -4,8 +4,7 @@ A collection of simple node js utilities to replace `node_modules/`. The goal is
 
 ## Testing
 
-### `testing/basic`
-- [`./testing/basic`]('./testing/basic')
+### [`./testing/basic`]('./testing/basic')
 
 Wraps [node:assert](https://nodejs.org/api/assert.html) with a more declarative test syntax.
 
